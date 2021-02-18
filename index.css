@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    font-family: 'Share Tech', sans-serif;
+}
+
+header {
+    height: 24vh;   
+    text-align: center;
+}
+
+#logo {
+    margin-top: 3vh;
+    max-height: 10vh;
+    max-width: auto;
+}
+
+#buyNow {
+    display: flex;
+    justify-content: center;
+}
